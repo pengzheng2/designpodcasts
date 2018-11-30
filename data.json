@@ -201,96 +201,106 @@
     },
 
     {
-      "99invisible": true,
-      "imgURL": "../assets/podcasts/99invisible/99invisible.jpg",
-      "officialWebsite": "https://99percentinvisible.org/",
-      "link": "subs/99invisible.html",
-      "tag": "design",
-      "design": true,
-      "name": "99% Invisible",
-      "intro-short": "A weekly exploration of the process and power of design and architecture.",
-      "intro-long": "Design is everywhere in our lives, perhaps most importantly in the places where we've just stopped noticing. 99% Invisible is a weekly exploration of the process and power of design and architecture.",
+      "codepen": true,
+      "imgURL": "../assets/podcasts/codepen/codepen.png",
+      "officialWebsite": "https://blog.codepen.io/radio/",
+      "link": "subs/codepen.html",
+      "tag": "develop",
+      "develop": true,
+      "name": "CodePen Radio",
+      "intro-short": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.",
+      "intro-long": "Chris Coyier, Alex Vazquez, and Tim Sabat, the co-founders of CodePen talk about the ins and outs of running a web software business.",
 
       "app": [
         {
           "appName": "Apple Podcasts",
           "appImgURL": "../assets/apps/apple-podcasts.jpg",
-          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id394775318"
+          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id824437159"
         },
         {
           "appName": "Google Podcasts",
           "appImgURL": "../assets/apps/google-podcast.png",
-          "appURL": "https://www.google.com/podcasts?feed=aHR0cDovL2ZlZWRzLjk5cGVyY2VudGludmlzaWJsZS5vcmcvOTlwZXJjZW50aW52aXNpYmxl"
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9ibG9nLmNvZGVwZW4uaW8vZmVlZC9wb2RjYXN0Lw=="
         },
         {
           "appName": "Castro",
           "appImgURL": "../assets/apps/castro.jpg",
-          "appURL": "https://castro.fm/itunes/394775318"
+          "appURL": "https://castro.fm/itunes/824437159"
         },
         {
           "appName": "Overcast",
           "appImgURL": "../assets/apps/overcast.jpg",
-          "appURL": "https://overcast.fm/itunes394775318"
+          "appURL": "https://overcast.fm/itunes824437159"
         },
         {
           "appName": "PocketCasts",
           "appImgURL": "../assets/apps/pocketcasts.jpg",
-          "appURL": "https://pca.st/itunes/394775318"
+          "appURL": "https://pca.st/itunes/824437159"
         },
         {
           "appName": "Castbox",
           "appImgURL": "../assets/apps/castbox.jpg",
-          "appURL": "https://castbox.fm/vic/394775318"
+          "appURL": "https://castbox.fm/vic/824437159"
         },
         {
           "appName": "Breaker",
           "appImgURL": "../assets/apps/breaker.jpg",
-          "appURL": "https://www.breaker.audio/shows?feed_url=http%3A%2F%2Ffeeds.99percentinvisible.org%2F99percentinvisible"
+          "appURL": "https://www.breaker.audio/shows?feed_url=https%3A%2F%2Fblog.codepen.io%2Ffeed%2Fpodcast%2F"
         },
         {
           "appName": "RSS",
           "appImgURL": "../assets/apps/rss.png",
-          "appURL": "http://feeds.99percentinvisible.org/99percentinvisible"
+          "appURL": "https://blog.codepen.io/feed/podcast/"
         }
       ],
 
       "host": [
         {
-          "hostPhotoURL": "../assets/podcasts/99invisible/romanmars.jpg",
-          "hostName": "Roman Mars",
-          "hostTwitterName": "romanmars"
+          "hostPhotoURL": "../assets/podcasts/codepen/chriscoyier.jpg",
+          "hostName": "Chris Coyier",
+          "hostTwitterName": "chriscoyier"
+        },
+        {
+          "hostPhotoURL": "../assets/podcasts/codepen/alexquez.jpg",
+          "hostName": "Alex Vazquez",
+          "hostTwitterName": "alexquez"
+        },
+        {
+          "hostPhotoURL": "../assets/podcasts/codepen/timsabat.jpeg",
+          "hostName": "Tim Sabat",
+          "hostTwitterName": "timsabat"
         }
       ],
 
-      "community": true,
+      "community": false,
       "communityImgURL": "../assets/podcasts/99invisible/reddit.png",
       "communityName": "Reddit",
       "communityURL": "https://www.reddit.com/r/99percentinvisible/",
 
       "facebook": true,
-      "facebookURL": "https://www.facebook.com/99percentinvisible/",
+      "facebookURL": "https://www.facebook.com/CodePen/?__tn__=%2Cdk%2CP-R&eid=ARD-dW2P6kEHVsxHYTdtYFSI-z8fU3A1wXXXTf42OwbyoaMsym_2jqZNCVSDeSx9lyGUZT-L0NqY1AiE",
       "twitter": true,
-      "twitterURL": "https://twitter.com/99piorg",
-      "podlinkURL": "https://podlink-frontend.herokuapp.com/394775318",
+      "twitterURL": "https://twitter.com/CodePen",
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/824437159",
       
       "featuredEpisodes": [
         {
-          "date": "april 28, 2015",
-          "episodeName": "162- Mystery House",
-          "description": "According to legend, Sarah Winchester’s friends advised the grieving widow to seek the services of a Boston spiritual medium named Adam Koombs. The story goes, Koombs put Mrs. Winchester in touch with her deceased husband—but William had bad news. He told …",
-          "audioURL": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/99percentinvisible/dovetail.prxu.org/96/73d95205-245d-42ac-ab46-b70ff54d3313/99pi-0162-mysteryhouse-1.mp3"
+          "date": "june 26, 2018",
+          "episodeName": "#180: Design",
+          "description": "The newest member of Team CodePen, Klare Frank, joins Marie and Chris to talk about what's been happening in the world of design at CodePen since she started.",
+          "audioURL": "http://media.blubrry.com/codepen_radio/codepen-podcast.s3.amazonaws.com/codepen-180.mp3"
         },
         {
-          "date": "november 25, 2014",
-          "episodeName": "142- And The Winner Is",
-          "description": "There’s a little trophy shop called Aardvark Laser Engraving  down the street from our office in Oakland. Its small but bustling, and its windows are stuffed to the brim with awards made of all kinds of materials and in any …",
-          "audioURL": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/99percentinvisible/dovetail.prxu.org/96/767ea00f-7d8c-470e-b5d8-456087c4d422/99pi-0142-andthewinneris-1.mp3"
+          "date": "march 13, 2018",
+          "episodeName": "#165: Design Assets",
+          "description": "Chris and Marie are on the show to talk about design assets — colors, fonts, patterns, and photos built right into CodePen that you can use for your Pen and Project designs.",
+          "audioURL": "http://media.blubrry.com/codepen_radio/codepen-podcast.s3.amazonaws.com/codepen-165.mp3"
         },
         {
-          "date": "september 9, 2015",
-          "episodeName": "180- Reefer Madness",
-          "description": "There are around 6,000 cargo vessels out on the ocean right now, carrying 20,000,000 shipping containers, which are delivering most of the products you see around you. And among all the containers are a special subset of temperature-controlled units known …",
-          "audioURL": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/99percentinvisible/dovetail.prxu.org/96/01cedb8c-046e-426d-bfe5-b3a491d92e4f/99pi-0180-reefermadness-1.mp3"
+          "date": "june 21, 2016",
+          "episodeName": "095: React",
+          "description": "I Heard React Is Good. We're talking about a new project we're working on and how we decided to jump in and use React to build it. Rachel, Alex, Tim Holman, and Chris get together to share their path of learning about React.",
+          "audioURL": "http://media.blubrry.com/codepen_radio/codepen-podcast.s3.amazonaws.com/095.mp3"
         }
       ]
     },
