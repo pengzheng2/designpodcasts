@@ -13,7 +13,7 @@
 
       "app": [
         {
-          "appName": "Apple Podcast",
+          "appName": "Apple Podcasts",
           "appImgURL": "../assets/apps/apple-podcasts.jpg",
           "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id394775318"
         },
@@ -107,7 +107,7 @@
 
       "app": [
         {
-          "appName": "Apple Podcast1",
+          "appName": "Apple Podcasts",
           "appImgURL": "../assets/apps/apple-podcasts.jpg",
           "appURL": "https://itunes.apple.com/us/podcast/design-details/id947191070?mt=2"
         },
