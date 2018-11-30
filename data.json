@@ -496,14 +496,14 @@
 
     {
       "designbetter": true,
-      "imgURL": "../assets/podcasts/creativesouth/creativesouth.jpg",
+      "imgURL": "../assets/podcasts/designbetter/designbetter.jpg",
       "officialWebsite": "https://www.designbetter.co/podcast",
       "link": "subs/designbetter.html",
       "tag": "design",
       "design": true,
       "name": "DesignBetter.Co",
       "intro-short": "The DesignBetter.Co Podcast is where we want to make it easier for you to design great products.",
-      "intro-long": "In Season 2 of the DesignBetter.Co Podcast, we explore the foundational operations, systems, and leadership needed to scale design. Join us and companies ranging from Shopify to Johnson & Johnson to uncover how design teams create great products at scale. Visit us at http://www.designbetter.co. DesignBetter.Co is brought to you by InVision, the platform that helps you design better, faster, together.",
+      "intro-long": "In Season 2 of the DesignBetter.Co Podcast, we explore the foundational operations, systems, and leadership needed to scale design. Join us and companies ranging from Shopify to Johnson & Johnson to uncover how design teams create great products at scale. DesignBetter.Co is brought to you by InVision, the platform that helps you design better, faster, together.",
 
       "app": [
         {
@@ -550,12 +550,12 @@
 
       "host": [
         {
-          "hostPhotoURL": "../assets/podcasts/creativesouth/aarronwalter.png",
+          "hostPhotoURL": "../assets/podcasts/designbetter/aarronwalter.png",
           "hostName": "Aarron Walter",
           "hostTwitterName": "aarron"
         },
         {
-          "hostPhotoURL": "../assets/podcasts/creativesouth/eliwoolery.png",
+          "hostPhotoURL": "../assets/podcasts/designbetter/eliwoolery.png",
           "hostName": "Eli Woolery",
           "hostTwitterName": "ewoolery"
         }
