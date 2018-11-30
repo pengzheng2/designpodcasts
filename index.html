@@ -1,1 +1,135 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en" class="sr">
+<head>
+	<!-- Required meta tags -->
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Twitter Cards
+	<meta name="twitter:card" content="summary_large_image" />
+  	<meta property="og:url" content="to be added" />
+  	<meta property="og:title" content="Design Podcasts" />
+  	<meta property="og:description" content="A list of great design and tech podcasts for those who've always wished they could listen to professionals chatting about design and development." />
+  	<meta property="og:image" content="to be added" /> -->
+	
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<!-- CSS and favicon -->
+	<link rel="stylesheet" href="css/index.css">
+	<!-- <link id="favicon" rel="shortcut icon" type="image/png" href="assets/favicon.png" /> -->
+	<script src="js/jquery-3.3.1.js"></script>
+	<script src="https://unpkg.com/scrollreveal"></script>
+	<script>
+    	ScrollReveal({ reset: true });
+	</script>
+	<title>Design Podcasts</title>
+</head>
+<body>
+	<!-- Navigation -->
+	<nav class="navbar navbar-expand-md navbar-light">
+		<div class="container">
+			<span class="logo">design podcasts</span>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item">
+						<h4 class="nav-link"><a href="#">podcasts</a></h4>
+					</li>
+					<li class="nav-item">
+						<h4 class="nav-link" href="#"><a href="#">apps</a></h4>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div class="container">
+		<hr class="light">	
+	</div>	
+	<!-- Welcome -->
+	<div class="container-fluid padding">
+		<div class="row welcome justify-content-center text-center">
+			<div class="col-12">
+				<h1 class="load-hidden">design podcasts</h1>
+			</div>
+			<div class="col-12 u-limiter--70">
+				<span class="subtitle load-hidden">A list of great design and tech podcasts for those who've always wished they could listen to professionals chatting about design and development.</span>
+			</div>
+		</div>
+	</div>
+	<!-- Content toggle -->
+	<div class="box">
+		<div class="toggle-bg">
+			<span id="design">Design</span>
+			<span id="develop">Develop</span>
+			<div class="toggle"></div>
+		</div>
+	</div>
+	<!-- Content -->
+	<div class="container content padding">
+		<div id="podcasts-container" class="row text-left padding">
+		</div>
+	</div>
+	<!-- Footer -->
+	<footer>
+		<div class="container">
+			<div class="row text-center">
+				<div class="col-12">
+					<hr class="light">
+					<div class="peng">
+						<p>Made with passion by <a href="https://twitter.com/pengzheng0713" target="_blank"><b>@Peng</b></a>, 2018</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<!-- Create handlebar templates -->
+	<script id="podcastsTemplate" type="text/x-handlebars-template">
+		{{#each podcasts}}
+			<div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 podcast load-hidden">
+				<a href="{{link}}"><img class="img-fluid" src="assets/{{imgURL}}" alt=""></a>
+				<h5>{{tag}}</h5>
+				<h2>{{name}}</h2>
+				<p>{{intro-short}}</p>
+			</div>
+		{{/each}}
+	</script>
+
+	<script id="designPodcastsTemplate" type="text/x-handlebars-template">
+		{{#each podcasts}}
+			{{#if design}}
+				<div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 podcast load-hidden">
+					<a href="{{link}}"><img class="img-fluid" src="assets/{{imgURL}}" alt=""></a>
+					<h5>{{tag}}</h5>
+					<h2>{{name}}</h2>
+					<p>{{intro-short}}</p>
+				</div>
+			{{/if}}
+		{{/each}}
+	</script>
+
+	<script id="developPodcastsTemplate" type="text/x-handlebars-template">
+		{{#each podcasts}}
+			{{#if develop}}
+				<div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 podcast load-hidden">
+					<a href="{{link}}"><img class="img-fluid" src="assets/{{imgURL}}" alt=""></a>
+					<h5>{{tag}}</h5>
+					<h2>{{name}}</h2>
+					<p>{{intro-short}}</p>
+				</div>
+			{{/if}}
+		{{/each}}
+	</script>
+
+	<!-- Bootstrap Optional JavaScript -->
+  	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+	<!-- Handlebars.js -->
+  	<script src="js/handlebars-v4.0.12.js"></script>
+  	<!-- main js -->
+	<script src="js/main.js"></script>
+</body>
+</html>

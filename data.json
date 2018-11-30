@@ -1,0 +1,201 @@
+{
+  "podcasts": [
+    {
+      "99invisible": true,
+      "imgURL": "../assets/podcasts/99invisible/99invisible.jpg",
+      "officialWebsite": "https://99percentinvisible.org/",
+      "link": "subs/99invisible.html",
+      "tag": "design",
+      "design": true,
+      "name": "99% Invisible",
+      "intro-short": "A weekly exploration of the process and power of design and architecture.",
+      "intro-long": "Design is everywhere in our lives, perhaps most importantly in the places where we've just stopped noticing. 99% Invisible is a weekly exploration of the process and power of design and architecture.",
+
+      "app": [
+        {
+          "appName": "Apple Podcast",
+          "appImgURL": "../assets/apps/apple-podcasts.jpg",
+          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id394775318"
+        },
+        {
+          "appName": "Google Podcasts",
+          "appImgURL": "../assets/apps/google-podcast.png",
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cDovL2ZlZWRzLjk5cGVyY2VudGludmlzaWJsZS5vcmcvOTlwZXJjZW50aW52aXNpYmxl"
+        },
+        {
+          "appName": "Castro",
+          "appImgURL": "../assets/apps/castro.jpg",
+          "appURL": "https://castro.fm/itunes/394775318"
+        },
+        {
+          "appName": "Overcast",
+          "appImgURL": "../assets/apps/overcast.jpg",
+          "appURL": "https://overcast.fm/itunes394775318"
+        },
+        {
+          "appName": "PocketCasts",
+          "appImgURL": "../assets/apps/pocketcasts.jpg",
+          "appURL": "https://pca.st/itunes/394775318"
+        },
+        {
+          "appName": "Castbox",
+          "appImgURL": "../assets/apps/castbox.jpg",
+          "appURL": "https://castbox.fm/vic/394775318"
+        },
+        {
+          "appName": "Breaker",
+          "appImgURL": "../assets/apps/breaker.jpg",
+          "appURL": "https://www.breaker.audio/shows?feed_url=http%3A%2F%2Ffeeds.99percentinvisible.org%2F99percentinvisible"
+        },
+        {
+          "appName": "RSS",
+          "appImgURL": "../assets/apps/rss.png",
+          "appURL": "http://feeds.99percentinvisible.org/99percentinvisible"
+        }
+      ],
+
+      "host": [
+        {
+          "hostPhotoURL": "../assets/podcasts/99invisible/romanmars.jpg",
+          "hostName": "Roman Mars",
+          "hostTwitterName": "romanmars"
+        }
+      ],
+
+      "community": true,
+      "communityImgURL": "../assets/podcasts/99invisible/reddit.png",
+      "communityName": "Reddit",
+      "communityURL": "https://www.reddit.com/r/99percentinvisible/",
+
+      "facebook": true,
+      "facebookURL": "https://www.facebook.com/99percentinvisible/",
+      "twitter": true,
+      "twitterURL": "https://twitter.com/99piorg",
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/394775318",
+      
+      "featuredEpisodes": [
+        {
+          "date": "april 28, 2015",
+          "episodeName": "162- Mystery House",
+          "description": "According to legend, Sarah Winchester’s friends advised the grieving widow to seek the services of a Boston spiritual medium named Adam Koombs. The story goes, Koombs put Mrs. Winchester in touch with her deceased husband—but William had bad news. He told …",
+          "audioURL": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/99percentinvisible/dovetail.prxu.org/96/73d95205-245d-42ac-ab46-b70ff54d3313/99pi-0162-mysteryhouse-1.mp3"
+        },
+        {
+          "date": "november 25, 2014",
+          "episodeName": "142- And The Winner Is",
+          "description": "There’s a little trophy shop called Aardvark Laser Engraving  down the street from our office in Oakland. Its small but bustling, and its windows are stuffed to the brim with awards made of all kinds of materials and in any …",
+          "audioURL": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/99percentinvisible/dovetail.prxu.org/96/767ea00f-7d8c-470e-b5d8-456087c4d422/99pi-0142-andthewinneris-1.mp3"
+        },
+        {
+          "date": "september 9, 2015",
+          "episodeName": "180- Reefer Madness",
+          "description": "There are around 6,000 cargo vessels out on the ocean right now, carrying 20,000,000 shipping containers, which are delivering most of the products you see around you. And among all the containers are a special subset of temperature-controlled units known …",
+          "audioURL": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/99percentinvisible/dovetail.prxu.org/96/01cedb8c-046e-426d-bfe5-b3a491d92e4f/99pi-0180-reefermadness-1.mp3"
+        }
+      ]
+    },
+    {
+      "designdetails": true,
+      "imgURL": "../assets/podcasts/designdetails/designdetails.jpg",
+      "officialWebsite": "https://spec.fm/podcasts/design-details",
+      "link": "subs/designdetails.html",
+      "tag": "design",
+      "design": true,
+      "name": "Design Details",
+      "intro-short": "A weekly conversation about design process and culture.",
+      "intro-long": "A weekly conversation about design process and culture. Hosted by Marshall Bock and Brian Lovin.",
+
+      "app": [
+        {
+          "appName": "Apple Podcast",
+          "appImgURL": "../assets/apps/apple-podcasts.jpg",
+          "appURL": "https://itunes.apple.com/us/podcast/design-details/id947191070?mt=2"
+        },
+        {
+          "appName": "Google Podcasts",
+          "appImgURL": "../assets/apps/google-podcast.png",
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMTAzNC9yc3M="
+        },
+        {
+          "appName": "Castro",
+          "appImgURL": "../assets/apps/castro.jpg",
+          "appURL": "https://castro.fm/itunes/947191070"
+        },
+        {
+          "appName": "Overcast",
+          "appImgURL": "../assets/apps/overcast.jpg",
+          "appURL": "https://overcast.fm/itunes947191070"
+        },
+        {
+          "appName": "PocketCasts",
+          "appImgURL": "../assets/apps/pocketcasts.jpg",
+          "appURL": "https://pca.st/itunes/947191070"
+        },
+        {
+          "appName": "Castbox",
+          "appImgURL": "../assets/apps/castbox.jpg",
+          "appURL": "https://castbox.fm/vic/947191070"
+        },
+        {
+          "appName": "Breaker",
+          "appImgURL": "../assets/apps/breaker.jpg",
+          "appURL": "https://www.breaker.audio/design-details"
+        },
+        {
+          "appName": "RSS",
+          "appImgURL": "../assets/apps/rss.png",
+          "appURL": "https://rss.simplecast.com/podcasts/1034/rss"
+        }
+      ],
+
+      "host": [
+        {
+          "hostPhotoURL": "../assets/podcasts/designdetails/marshallbock.png",
+          "hostName": "Marshall Bock",
+          "hostTwitterName": "marshallbock"
+        },
+        {
+          "hostPhotoURL": "../assets/podcasts/designdetails/brianlovin.jpg",
+          "hostName": "Brian Lovin",
+          "hostTwitterName": "brian_lovin"
+        }
+      ],
+
+      "community": true,
+      "communityImgURL": "../assets/podcasts/designdetails/spectrum.jpeg",
+      "communityName": "Spectrum",
+      "communityURL": "https://spectrum.chat/specfm/design-details",
+
+      "facebook": false,
+      "facebookURL": "",
+      "twitter": true,
+      "twitterURL": "https://twitter.com/designdetailsfm",
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/947191070",
+      
+      "featuredEpisodes": [
+        {
+          "date": "november 14, 2018",
+          "episodeName": "274: Well... It's Free",
+          "description": "This week, we discuss sign-in walls and the design patterns behind offering free-ish content on the Internet. In News, we praise Samsung's new One UI for its strict adherence to Fitts' Law. And as always, we share a couple cool things, including a video game competition and a major update to a podcast app.",
+          "audioURL": "https://media.simplecast.com/episodes/audio/232807/DD_274_Mixdown_1.mp3"
+        },
+        {
+          "date": "april 13, 2016",
+          "episodeName": "121: Web Trauma (feat. Bill Labus and Benjamin De Cock)",
+          "description": "Today we caught up with two members of the Stripe design team, Bill Labus and Benjamin De Cock. We dig into their roles as UI designers, collaborating in code, critique, process and tools at Stripe, working remotely, origin stories, and more.",
+          "audioURL": "https://media.simplecast.com/episodes/audio/35067/121_Web_Trauma__feat.Bill_Labus_and_Benjamin_De_Cock__.mp3"
+        },
+        {
+          "date": "january 5, 2015",
+          "episodeName": "1: How Nerdy of an Answer Do You Want? (feat. Sam Soffes)",
+          "description": "The first episode of Design Details has arrived! For our opening show, we sat down with designer and developer Sam Soffes to talk about his latest project (Whiskey), building in public, brag-driven development and his interest in working as a designer. This is our first episode and we're learning a lot! We'd love your feedback or suggestions - give a shout on Twitter, @designdetailsfm or send us a private email!",
+          "audioURL": "https://media.simplecast.com/episodes/audio/7933/184597739-designdetailsfm-episode-1.mp3"
+        }
+      ]
+    }
+
+
+
+
+  ]
+}
