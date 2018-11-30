@@ -414,7 +414,7 @@
       "design": true,
       "name": "Creative South Podcast",
       "intro-short": "The Creative South Podcast focuses on the “people” behind the design. ",
-      "intro-long": "The Creative South Podcast focuses on the “people” behind the design. The best way for us to do that is to talk to people and listen to them share their stories. Not necessarily the stories you hear from the stage, but ones you get when you actually have a conversation with someone. We want to have conversations not only with the presenters and people hosting workshops, but the vendors and attendees. We also want to talk to other creative people, not just the designers, illustrators, and photographers, but the developers, writers, musicians, comedians, chefs and anyone else that uses their creative talent. It's not about being from the South, that's just where we live!",
+      "intro-long": "The Creative South Podcast focuses on the “people” behind the design. The best way for us to do that is to talk to people and listen to them share their stories. Not necessarily the stories you hear from the stage, but ones you get when you actually have a conversation with someone. We want to have conversations not only with the presenters and people hosting workshops, but the vendors and attendees.",
 
       "app": [
         {
@@ -490,12 +490,6 @@
           "episodeName": "Live from CS18: Lisa Quine & Always Abounding",
           "description": "We’re heading back to the most recent Creative South. I sat down with a ton of talented designers and illustrators during the conference and talked about all kinds of stuff. This week on the Creative South Podcast, I’m talking with Lisa Quine, and Ryan and Kaleb from Always Abounding. Sit back and relax, strap into your way back machine, and enjoy the show.",
           "audioURL": "https://audio.simplecast.com/cc899282.mp3"
-        },
-        {
-          "date": "february 4, 2016",
-          "episodeName": "1: Mike Jones",
-          "description": "Welcome to the first episode of the Creative South Podcast I'm your host Jason Frostholm. In this episode I talk with Mike Jones, co-founder of Creative South, about how the conference got started, what we can look forward to in 2016, and what the future may hold.",
-          "audioURL": "https://audio.simplecast.com/163ffd0a.mp3"
         }
       ]
     }
