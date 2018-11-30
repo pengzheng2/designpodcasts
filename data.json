@@ -697,108 +697,6 @@
     },
 
     {
-      "designreview": true,
-      "imgURL": "../assets/podcasts/designreview/designreview.jpg",
-      "officialWebsite": "http://www.designreviewpodcast.com/",
-      "link": "subs/designreview.html",
-      "tag": "design",
-      "design": true,
-      "name": "Design Review",
-      "intro-short": "A weekly podcast about products and their UX.",
-      "intro-long": "Each week, we review a product and analyze the user experience design to understand how they work and take away insights from how they're made. No chit-chat, just focused in-depth discussions about design topics that matter. Jonathan Shariat and Chris Liu are your hosts and bring to the table passion and years of experience.",
-
-      "app": [
-        {
-          "appName": "Apple Podcasts",
-          "appImgURL": "../assets/apps/apple-podcasts.jpg",
-          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id947753823"
-        },
-        {
-          "appName": "Google Podcasts",
-          "appImgURL": "../assets/apps/google-podcast.png",
-          "appURL": "https://www.google.com/podcasts?feed=aHR0cDovL3d3dy5kZXNpZ25yZXZpZXdwb2RjYXN0LmNvbS9kZXNpZ24tcmV2aWV3LnJzcw=="
-        },
-        {
-          "appName": "Castro",
-          "appImgURL": "../assets/apps/castro.jpg",
-          "appURL": "https://castro.fm/itunes/947753823"
-        },
-        {
-          "appName": "Overcast",
-          "appImgURL": "../assets/apps/overcast.jpg",
-          "appURL": "https://overcast.fm/itunes947753823"
-        },
-        {
-          "appName": "PocketCasts",
-          "appImgURL": "../assets/apps/pocketcasts.jpg",
-          "appURL": "https://pca.st/itunes/947753823"
-        },
-        {
-          "appName": "Castbox",
-          "appImgURL": "../assets/apps/castbox.jpg",
-          "appURL": "https://castbox.fm/vic/947753823"
-        },
-        {
-          "appName": "Breaker",
-          "appImgURL": "../assets/apps/breaker.jpg",
-          "appURL": "https://www.breaker.audio/shows?feed_url=http%3A%2F%2Fwww.designreviewpodcast.com%2Fdesign-review.rss"
-        },
-        {
-          "appName": "RSS",
-          "appImgURL": "../assets/apps/rss.png",
-          "appURL": "http://www.designreviewpodcast.com/design-review.rss"
-        }
-      ],
-
-      "host": [
-        {
-          "hostPhotoURL": "../assets/podcasts/designreview/jonathanshariat.jpg",
-          "hostName": "Jonathan Shariat",
-          "hostTwitterName": "DesignUXUI"
-        },
-        {
-          "hostPhotoURL": "../assets/podcasts/designreview/chrisliu.jpeg",
-          "hostName": "Chris Liu",
-          "hostTwitterName": "machinehuman"
-        }
-      ],
-
-      "community": false,
-      "communityImgURL": "../assets/podcasts/designdetails/spectrum.jpeg",
-      "communityName": "Spectrum",
-      "communityURL": "https://spectrum.chat/specfm/design-details",
-
-      "facebook": false,
-      "facebookURL": "https://www.facebook.com/invisionapp",
-
-      "twitter": true,
-      "twitterURL": "https://twitter.com/DR_podcast",
-
-      "podlinkURL": "https://podlink-frontend.herokuapp.com/947753823",
-      
-      "featuredEpisodes": [
-        {
-          "date": "october 29, 2017",
-          "episodeName": "Episode 57 - Defining our Design Process",
-          "description": "This week, Chris and Jon talk about defining an effective process. Let's face it. Defining a useful process is hard! There's so many questions about what to do first. And worst of all, it's really easy to start jumping in and making mockups. Stay tuned to this episode to hear about why that may not be the best idea!",
-          "audioURL": "http://feeds.soundcloud.com/stream/349188446-design-review-episode-57-defining-our-design-process.mp3"
-        },
-        {
-          "date": "may 29, 2017",
-          "episodeName": "Episode 53 - Good designers write!",
-          "description": "This week, Chris and Jon talk about why good writing skills are essential for doing good design. Obviously other things are important too, but writing is just one of those 'core skills' every designer must have. Stay tuned to this episode!",
-          "audioURL": "http://feeds.soundcloud.com/stream/325133687-design-review-episode-53-good-designers-write.mp3"
-        },
-        {
-          "date": "august 2, 2015",
-          "episodeName": "Episode 25 - How to design a great portfolio",
-          "description": "This week Chris and Jon discuss one of the most difficult design projects of them all, portfolios. We talk about what they are, how they can help move your career forward, and how we're faring on this journey to portfolio greatness!",
-          "audioURL": "http://feeds.soundcloud.com/stream/217504689-design-review-episode-25-how-to-design-a-great-portfolio.mp3"
-        }
-      ]
-    },
-
-    {
       "designernotes": true,
       "imgURL": "../assets/podcasts/designernotes/designernotes.jpg",
       "officialWebsite": "https://design.google/library/podcasts/",
@@ -885,6 +783,103 @@
           "episodeName": "Material Design Awards",
           "description": "The second episode features the winners of this year’s Material Design awards, who sat down to talk with Liam while being honored for their work at SPAN Pittsburgh. Listen as the creative teams from NPR One, Eventbrite, Momondo, and Blinkist detail how they each built experiences with distinct personality, and discuss elevating content, the emotive qualities of white space, and using the Material Design system as a springboard for unique expression.",
           "audioURL": "http://traffic.libsyn.com/designnotes/DN002_Material_Design_Awards.mp3?dest-id=546341"
+        }
+      ]
+    },
+
+    {
+      "developertea": true,
+      "imgURL": "../assets/podcasts/developertea/developertea.jpg",
+      "officialWebsite": "https://spec.fm/podcasts/developer-tea",
+      "link": "subs/developertea.html",
+      "tag": "develop",
+      "develop": true,
+      "name": "Developer Tea",
+      "intro-short": "A podcast for developers designed to fit inside your tea break",
+      "intro-long": "Developer Tea exists to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence. With over 7 million downloads to date. We hope you'll take the topics from this podcast and continue the conversation, either online or in person with your peers.",
+
+      "app": [
+        {
+          "appName": "Apple Podcasts",
+          "appImgURL": "../assets/apps/apple-podcasts.jpg",
+          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id955596067"
+        },
+        {
+          "appName": "Google Podcasts",
+          "appImgURL": "../assets/apps/google-podcast.png",
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMzYzL3Jzcw=="
+        },
+        {
+          "appName": "Castro",
+          "appImgURL": "../assets/apps/castro.jpg",
+          "appURL": "https://castro.fm/itunes/955596067"
+        },
+        {
+          "appName": "Overcast",
+          "appImgURL": "../assets/apps/overcast.jpg",
+          "appURL": "https://overcast.fm/itunes955596067"
+        },
+        {
+          "appName": "PocketCasts",
+          "appImgURL": "../assets/apps/pocketcasts.jpg",
+          "appURL": "https://pca.st/itunes/955596067"
+        },
+        {
+          "appName": "Castbox",
+          "appImgURL": "../assets/apps/castbox.jpg",
+          "appURL": "https://castbox.fm/vic/955596067"
+        },
+        {
+          "appName": "Breaker",
+          "appImgURL": "../assets/apps/breaker.jpg",
+          "appURL": "https://www.breaker.audio/shows?feed_url=https%3A%2F%2Frss.simplecast.com%2Fpodcasts%2F363%2Frss"
+        },
+        {
+          "appName": "RSS",
+          "appImgURL": "../assets/apps/rss.png",
+          "appURL": "https://rss.simplecast.com/podcasts/363/rss"
+        }
+      ],
+
+      "host": [
+        {
+          "hostPhotoURL": "../assets/podcasts/developertea/JCutrell.jpg",
+          "hostName": "Jonathan Cutrell",
+          "hostTwitterName": "JCutrell"
+        }
+      ],
+
+      "community": true,
+      "communityImgURL": "../assets/podcasts/designdetails/spectrum.jpeg",
+      "communityName": "Spectrum",
+      "communityURL": "https://spectrum.chat/specfm/developer-tea",
+
+      "facebook": true,
+      "facebookURL": "https://www.facebook.com/DeveloperTea/",
+
+      "twitter": true,
+      "twitterURL": "https://twitter.com/DeveloperTea",
+
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/955596067",
+      
+      "featuredEpisodes": [
+        {
+          "date": "november 9, 2018",
+          "episodeName": "Make Programming Principles More Useful with These 3 New Angles",
+          "description": "One of the ways you can do better work and uncover more about the world around you are through different patterns of thinking and angles that usually come from rules we've learned. In today's episode, we're focusing on rules and how we can approach a new rule from three different angles.",
+          "audioURL": "https://audio.simplecast.com/7bdb6566.mp3"
+        },
+        {
+          "date": "october 29, 2018",
+          "episodeName": "Learning React - Part 1 (More than just tooling)",
+          "description": "Usually, on this show, we talk about ideas or research, but in today's episode, we're talking about my personal experience learning React and how we can apply an experience of learning in your career as you're using it.",
+          "audioURL": "https://audio.simplecast.com/849a01b8.mp3"
+        },
+        {
+          "date": "february 12, 2018",
+          "episodeName": "Project-Oriented Mindset",
+          "description": "In today's episode, we talk about a way to avoid feeling like you're just working on an endless list of tasks.",
+          "audioURL": "https://audio.simplecast.com/be566184.mp3"
         }
       ]
     }
