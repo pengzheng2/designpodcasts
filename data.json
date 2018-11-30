@@ -882,7 +882,108 @@
           "audioURL": "https://audio.simplecast.com/be566184.mp3"
         }
       ]
+    },
+
+    {
+      "dnfm": true,
+      "imgURL": "../assets/podcasts/dnfm/dnfm.jpg",
+      "officialWebsite": "https://www.designernews.co/podcast",
+      "link": "subs/dnfm.html",
+      "tag": "design",
+      "design": true,
+      "name": "DN FM",
+      "intro-short": "DN FM features the latest stories in design and tech, brought to you by Designer News.",
+      "intro-long": "DN FM features the latest stories in design and tech, brought to you by Designer News. The show is a bi-weekly podcast by the community, for the community. Through interviews, news and community segments, it aims to spark a meaningful conversation on design.",
+
+      "app": [
+        {
+          "appName": "Apple Podcasts",
+          "appImgURL": "../assets/apps/apple-podcasts.jpg",
+          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id1139346989"
+        },
+        {
+          "appName": "Google Podcasts",
+          "appImgURL": "../assets/apps/google-podcast.png",
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMjA0MS9yc3M="
+        },
+        {
+          "appName": "Castro",
+          "appImgURL": "../assets/apps/castro.jpg",
+          "appURL": "https://castro.fm/itunes/1139346989"
+        },
+        {
+          "appName": "Overcast",
+          "appImgURL": "../assets/apps/overcast.jpg",
+          "appURL": "https://overcast.fm/itunes1139346989"
+        },
+        {
+          "appName": "PocketCasts",
+          "appImgURL": "../assets/apps/pocketcasts.jpg",
+          "appURL": "https://pca.st/itunes/1139346989"
+        },
+        {
+          "appName": "Castbox",
+          "appImgURL": "../assets/apps/castbox.jpg",
+          "appURL": "https://castbox.fm/vic/1139346989"
+        },
+        {
+          "appName": "Breaker",
+          "appImgURL": "../assets/apps/breaker.jpg",
+          "appURL": "https://www.breaker.audio/shows?feed_url=https%3A%2F%2Frss.simplecast.com%2Fpodcasts%2F2041%2Frss"
+        },
+        {
+          "appName": "RSS",
+          "appImgURL": "../assets/apps/rss.png",
+          "appURL": "https://rss.simplecast.com/podcasts/2041/rss"
+        }
+      ],
+
+      "host": [
+        {
+          "hostPhotoURL": "../assets/podcasts/developertea/samsolomon.jpg",
+          "hostName": "Sam Solomon",
+          "hostTwitterName": "SamuelRSolomon"
+        }
+      ],
+
+      "community": false,
+      "communityImgURL": "../assets/podcasts/designdetails/spectrum.jpeg",
+      "communityName": "Spectrum",
+      "communityURL": "https://spectrum.chat/specfm/developer-tea",
+
+      "facebook": true,
+      "facebookURL": "https://www.facebook.com/designernews/",
+
+      "twitter": true,
+      "twitterURL": "https://twitter.com/designernewsbot",
+
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/1139346989",
+      
+      "featuredEpisodes": [
+        {
+          "date": "november 28, 2016",
+          "episodeName": "Clark Valberg on InVision's past, present, and future",
+          "description": "Clark Valberg is the founder and CEO of InVision. If you are a designer, you have probably gotten an email from Clark or from InVision at one time or another, but if you’re not familiar with the company, InVision is a prototyping and collaboration platform for designers. Today we’ll talk about the business’s past, present and future.",
+          "audioURL": "https://audio.simplecast.com/31faa376.mp3"
+        },
+        {
+          "date": "october 3, 2016",
+          "episodeName": "Rachel Andrew on frameworks, layouts, and her humble CMS project going big",
+          "description": "Rachel Andrew joins us this week to reflect on how the web's influence grew on her in the early days, and how this manifested into full-fledged web development - a magic skill set at the time. Then Rachel dwells on web frameworks and their implications for web standards and layouts. She muses about obligations for the development community to advocate for their interests, and the story of a humble CMS project turning big. Finally, she explores how the client landscape in today's web dev world is shifting and becoming commoditized.",
+          "audioURL": "https://audio.simplecast.com/01e4e3b2.mp3"
+        }
+      ]
     }
+
+
+
+
+
+
+
+
+
+
 
   ]
 }
