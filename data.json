@@ -107,7 +107,7 @@
 
       "app": [
         {
-          "appName": "Apple Podcast",
+          "appName": "Apple Podcast1",
           "appImgURL": "../assets/apps/apple-podcasts.jpg",
           "appURL": "https://itunes.apple.com/us/podcast/design-details/id947191070?mt=2"
         },
