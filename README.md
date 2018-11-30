@@ -1,2 +1,2 @@
-# designpodcasts.github.io
-A list of great design and tech podcasts for those who've always wished they could listen to professionals chatting about design and development.
+# Design Podcasts
+This is assignment 8 for PUI.
