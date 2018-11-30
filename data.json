@@ -413,7 +413,7 @@
       "tag": "design",
       "design": true,
       "name": "Creative South Podcast",
-      "intro-short": "The Creative South Podcast focuses on the “people” behind the design. ",
+      "intro-short": "The Creative South Podcast focuses on the “people” behind the design.",
       "intro-long": "The Creative South Podcast focuses on the “people” behind the design. The best way for us to do that is to talk to people and listen to them share their stories. Not necessarily the stories you hear from the stage, but ones you get when you actually have a conversation with someone. We want to have conversations not only with the presenters and people hosting workshops, but the vendors and attendees.",
 
       "app": [
@@ -492,8 +492,106 @@
           "audioURL": "https://audio.simplecast.com/cc899282.mp3"
         }
       ]
+    },
+
+    {
+      "designbetter": true,
+      "imgURL": "../assets/podcasts/creativesouth/creativesouth.jpg",
+      "officialWebsite": "https://www.designbetter.co/podcast",
+      "link": "subs/designbetter.html",
+      "tag": "design",
+      "design": true,
+      "name": "DesignBetter.Co",
+      "intro-short": "The DesignBetter.Co Podcast is where we want to make it easier for you to design great products.",
+      "intro-long": "In Season 2 of the DesignBetter.Co Podcast, we explore the foundational operations, systems, and leadership needed to scale design. Join us and companies ranging from Shopify to Johnson & Johnson to uncover how design teams create great products at scale. Visit us at http://www.designbetter.co. DesignBetter.Co is brought to you by InVision, the platform that helps you design better, faster, together.",
+
+      "app": [
+        {
+          "appName": "Apple Podcasts",
+          "appImgURL": "../assets/apps/apple-podcasts.jpg",
+          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id1266839739"
+        },
+        {
+          "appName": "Google Podcasts",
+          "appImgURL": "../assets/apps/google-podcast.png",
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cDovL2Rlc2lnbmJldHRlci5saWJzeW4uY29tL3Jzcw=="
+        },
+        {
+          "appName": "Castro",
+          "appImgURL": "../assets/apps/castro.jpg",
+          "appURL": "https://castro.fm/itunes/1266839739"
+        },
+        {
+          "appName": "Overcast",
+          "appImgURL": "../assets/apps/overcast.jpg",
+          "appURL": "https://overcast.fm/itunes1266839739"
+        },
+        {
+          "appName": "PocketCasts",
+          "appImgURL": "../assets/apps/pocketcasts.jpg",
+          "appURL": "https://pca.st/itunes/1266839739"
+        },
+        {
+          "appName": "Castbox",
+          "appImgURL": "../assets/apps/castbox.jpg",
+          "appURL": "https://castbox.fm/vic/1266839739"
+        },
+        {
+          "appName": "Breaker",
+          "appImgURL": "../assets/apps/breaker.jpg",
+          "appURL": "https://www.breaker.audio/shows?feed_url=http%3A%2F%2Fdesignbetter.libsyn.com%2Frss"
+        },
+        {
+          "appName": "RSS",
+          "appImgURL": "../assets/apps/rss.png",
+          "appURL": "http://designbetter.libsyn.com/rss"
+        }
+      ],
+
+      "host": [
+        {
+          "hostPhotoURL": "../assets/podcasts/creativesouth/aarronwalter.png",
+          "hostName": "Aarron Walter",
+          "hostTwitterName": "aarron"
+        },
+        {
+          "hostPhotoURL": "../assets/podcasts/creativesouth/eliwoolery.png",
+          "hostName": "Eli Woolery",
+          "hostTwitterName": "ewoolery"
+        }
+      ],
+
+      "community": false,
+      "communityImgURL": "../assets/podcasts/designdetails/spectrum.jpeg",
+      "communityName": "Spectrum",
+      "communityURL": "https://spectrum.chat/specfm/design-details",
+
+      "facebook": true,
+      "facebookURL": "https://www.facebook.com/invisionapp",
+      "twitter": true,
+      "twitterURL": "https://twitter.com/InVisionApp",
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/1266839739",
+      
+      "featuredEpisodes": [
+        {
+          "date": "august 6, 2018",
+          "episodeName": "#020: Margaret Stewart: Scaling through storytelling",
+          "description": "As organizations grow, they tend to think in terms of processes and data, and although those elements are vital to scale, teams sometimes lose sight of the why. Key to scaling is building an infrastructure that supports a company’s core mission. In our final Season 2 episode of the DesignBetter.Co Podcast, Facebook Vice President of Product Design Margaret Gould Stewart talks with Aarron and Eli about how storytelling, open communication, and keeping the focus on the customer help the company's design team scale.",
+          "audioURL": "https://traffic.libsyn.com/secure/designbetter/Facebook_Master_080318.mp3?dest-id=442426"
+        },
+        {
+          "date": "october 1, 2017",
+          "episodeName": "#008: Jake Knapp: beyond the Sprint",
+          "description": "Given the impact of Sprint, we’re delighted to have Jake on the show to dig into questions we’ve been curious about since reading. In this episode, we run through topics like the relationship between design thinking and the sprint process, how design sprints can work in harmony with an agile development cycle, and when not to use design sprints.",
+          "audioURL": "https://traffic.libsyn.com/secure/designbetter/Jake_Knapp_Master_092717.mp3?dest-id=442426"
+        },
+        {
+          "date": "july 20, 2017",
+          "episodeName": "#002: David Kelley: creative confidence and aligning teams",
+          "description": "In this episode, Eli and Aarron speak with David about what it takes to bring designers and engineers together, how our workspace influences our work, and how we can encourage creative confidence in our companies. Enjoy their chat with David, and thanks for listening.",
+          "audioURL": "https://traffic.libsyn.com/secure/designbetter/David_Kelley_Master_102217.mp3?dest-id=442426"
+        }
+      ]
     }
-
-
   ]
 }
