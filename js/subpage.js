@@ -2,7 +2,7 @@
 
 // Get data from a JSON file
 var ourRequest = new XMLHttpRequest();
-ourRequest.open('GET', 'https://pengzheng2.github.io/designpodcasts/data.json');
+ourRequest.open('GET', 'https://raw.githubusercontent.com/pengzheng2/designpodcasts/master/data.json');
 ourRequest.onload = function() {
   if (ourRequest.status >= 200 && ourRequest.status < 400) {
     // This is where we'll do something with the retrieved data
