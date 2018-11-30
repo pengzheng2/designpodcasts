@@ -96,6 +96,111 @@
     },
 
     {
+      "accidentaltechpodcast": true,
+      "imgURL": "../assets/podcasts/accidentaltechpodcast/accidentaltechpodcast.png",
+      "officialWebsite": "http://atp.fm/",
+      "link": "subs/accidentaltechpodcast.html",
+      "tag": "develop",
+      "develop": true,
+      "name": "Accidental Tech Podcast",
+      "intro-short": "Three nerds discussing tech, Apple, programming, and loosely related matters.",
+      "intro-long": "A tech podcast we accidentally created while trying to do a car show. Featuring Marco Arment, Casey Liss, and John Siracusa.",
+
+      "app": [
+        {
+          "appName": "Apple Podcasts",
+          "appImgURL": "../assets/apps/apple-podcasts.jpg",
+          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id617416468"
+        },
+        {
+          "appName": "Google Podcasts",
+          "appImgURL": "../assets/apps/google-podcast.png",
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cDovL2F0cC5mbS9lcGlzb2Rlcz9mb3JtYXQ9cnNz"
+        },
+        {
+          "appName": "Castro",
+          "appImgURL": "../assets/apps/castro.jpg",
+          "appURL": "https://castro.fm/itunes/617416468"
+        },
+        {
+          "appName": "Overcast",
+          "appImgURL": "../assets/apps/overcast.jpg",
+          "appURL": "https://overcast.fm/itunes617416468"
+        },
+        {
+          "appName": "PocketCasts",
+          "appImgURL": "../assets/apps/pocketcasts.jpg",
+          "appURL": "https://pca.st/itunes/617416468"
+        },
+        {
+          "appName": "Castbox",
+          "appImgURL": "../assets/apps/castbox.jpg",
+          "appURL": "https://castbox.fm/vic/617416468"
+        },
+        {
+          "appName": "Breaker",
+          "appImgURL": "../assets/apps/breaker.jpg",
+          "appURL": "https://www.breaker.audio/shows?feed_url=http%3A%2F%2Fatp.fm%2Fepisodes%3Fformat%3Drss"
+        },
+        {
+          "appName": "RSS",
+          "appImgURL": "../assets/apps/rss.png",
+          "appURL": "http://atp.fm/episodes?format=rss"
+        }
+      ],
+
+      "host": [
+        {
+          "hostPhotoURL": "../assets/podcasts/accidentaltechpodcast/marcoarment.jpg",
+          "hostName": "Marco Arment",
+          "hostTwitterName": "marcoarment"
+        },
+        {
+          "hostPhotoURL": "../assets/podcasts/accidentaltechpodcast/caseyliss.jpg",
+          "hostName": "Casey Liss",
+          "hostTwitterName": "caseyliss"
+        },
+        {
+          "hostPhotoURL": "../assets/podcasts/accidentaltechpodcast/johnsiracusa.png",
+          "hostName": "John Siracusa",
+          "hostTwitterName": "siracusa"
+        }
+      ],
+
+      "community": true,
+      "communityImgURL": "../assets/podcasts/99invisible/reddit.png",
+      "communityName": "Reddit",
+      "communityURL": "https://www.reddit.com/r/ATPfm/",
+
+      "facebook": true,
+      "facebookURL": "https://www.facebook.com/Accidental-Tech-Podcast-243297276086317/",
+      "twitter": true,
+      "twitterURL": "https://twitter.com/atpfm",
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/617416468",
+      
+      "featuredEpisodes": [
+        {
+          "date": "august 23, 2018",
+          "episodeName": "288: Rich Person's Raspberry Pi",
+          "description": "Follow-up. What happened to 5K displays? Apple Entrepreneur Camp. How much does it cost to get a Mac that performs as well as an iPad Pro? Apple's ever-increasing prices.",
+          "audioURL": "http://traffic.libsyn.com/atpfm/atp288.mp3"
+        },
+        {
+          "date": "july 2, 2018",
+          "episodeName": "281: My Private Siri",
+          "description": "Home repairs: Window air conditioners. Computer repairs. Follow-up. Mojave LaunchServices can launch flat-style app bundles. Google Home impresses John. Apple Maps is getting a whole lotta love. AirPod (and headphone!) rumors.",
+          "audioURL": "http://traffic.libsyn.com/atpfm/atp281.mp3"
+        },
+        {
+          "date": "may 10, 2018",
+          "episodeName": "273: Playing You Like a Video Game",
+          "description": "Follow-up. You should go to Layers. Jony Ive interviewed by Hodinkee. Google Duplex. 20 years of USB.",
+          "audioURL": "http://traffic.libsyn.com/atpfm/atp273.mp3"
+        }
+      ]
+    },
+
+    {
       "99invisible": true,
       "imgURL": "../assets/podcasts/99invisible/99invisible.jpg",
       "officialWebsite": "https://99percentinvisible.org/",
@@ -189,7 +294,7 @@
         }
       ]
     },
-    
+
     {
       "designdetails": true,
       "imgURL": "../assets/podcasts/designdetails/designdetails.jpg",
