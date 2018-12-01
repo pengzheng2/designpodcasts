@@ -973,6 +973,108 @@
           "audioURL": "https://audio.simplecast.com/01e4e3b2.mp3"
         }
       ]
+    },
+
+    {
+      "doesnotcompute": true,
+      "imgURL": "../assets/podcasts/doesnotcompute/doesnotcompute.jpg",
+      "officialWebsite": "https://www.designernews.co/podcast",
+      "link": "subs/doesnotcompute.html",
+      "tag": "develop",
+      "develop": true,
+      "name": "Does Not Compute",
+      "intro-short": "A weekly chat about the lives and workflows of modern web developers.",
+      "intro-long": "A weekly chat about the lives and workflows of modern web developers, hosted by Sean Washington & Friends.",
+
+      "app": [
+        {
+          "appName": "Apple Podcasts",
+          "appImgURL": "../assets/apps/apple-podcasts.jpg",
+          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id1048731980"
+        },
+        {
+          "appName": "Google Podcasts",
+          "appImgURL": "../assets/apps/google-podcast.png",
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMTM4Ni9yc3M="
+        },
+        {
+          "appName": "Castro",
+          "appImgURL": "../assets/apps/castro.jpg",
+          "appURL": "https://castro.fm/itunes/1048731980"
+        },
+        {
+          "appName": "Overcast",
+          "appImgURL": "../assets/apps/overcast.jpg",
+          "appURL": "https://overcast.fm/itunes1048731980"
+        },
+        {
+          "appName": "PocketCasts",
+          "appImgURL": "../assets/apps/pocketcasts.jpg",
+          "appURL": "https://pca.st/itunes/1048731980"
+        },
+        {
+          "appName": "Castbox",
+          "appImgURL": "../assets/apps/castbox.jpg",
+          "appURL": "https://castbox.fm/vic/1048731980"
+        },
+        {
+          "appName": "Breaker",
+          "appImgURL": "../assets/apps/breaker.jpg",
+          "appURL": "https://www.breaker.audio/shows?feed_url=https%3A%2F%2Frss.simplecast.com%2Fpodcasts%2F1386%2Frss"
+        },
+        {
+          "appName": "RSS",
+          "appImgURL": "../assets/apps/rss.png",
+          "appURL": "https://rss.simplecast.com/podcasts/1386/rss"
+        }
+      ],
+
+      "host": [
+        {
+          "hostPhotoURL": "../assets/podcasts/doesnotcompute/seanwashington.jpg",
+          "hostName": "Sean Washington",
+          "hostTwitterName": "seanwashbot"
+        },
+        {
+          "hostPhotoURL": "../assets/podcasts/doesnotcompute/rockwellschrock.png",
+          "hostName": "Rockwell Schrock",
+          "hostTwitterName": "Schrockwell"
+        }
+      ],
+
+      "community": true,
+      "communityImgURL": "../assets/podcasts/designdetails/spectrum.jpeg",
+      "communityName": "Spectrum",
+      "communityURL": "https://spectrum.chat/specfm/does-not-compute",
+
+      "facebook": false,
+      "facebookURL": "https://www.facebook.com/designernews/",
+
+      "twitter": true,
+      "twitterURL": "https://twitter.com/dnccast",
+
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/1048731980",
+      
+      "featuredEpisodes": [
+        {
+          "date": "may 29, 2018",
+          "episodeName": "127: Exploring Docker",
+          "description": "In episode 127 of Does Not Compute, Sean and Paul talk about the importance of documentation, exploring Docker, and dealing with imposter syndrome.",
+          "audioURL": "https://audio.simplecast.com/4fdd337a.mp3"
+        },
+        {
+          "date": "april 3, 2018",
+          "episodeName": "120: Source of Truth",
+          "description": "In episode 120 of Does Not Compute, Sean and Paul talk about camping and national parks, writing functional feature specs for an application, and some practical examples of elixir's pattern matching and guard clauses.",
+          "audioURL": "https://audio.simplecast.com/63486eff.mp3"
+        },
+        {
+          "date": "march 27, 2018",
+          "episodeName": "119: Separation of Concerns",
+          "description": "In episode 119 of Does Not Compute, Sean and Paul talk about rethinking separation of concerns, building reusable components with Vue.js, and how relying on some simple Elixir conventions can replace the need for external libraries.",
+          "audioURL": "https://audio.simplecast.com/af420875.mp3"
+        }
+      ]
     }
 
 
