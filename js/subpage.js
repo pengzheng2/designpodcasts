@@ -2,7 +2,7 @@
 
 // Get data from a JSON file
 var ourRequest = new XMLHttpRequest();
-ourRequest.open('GET', 'https://api.jsonbin.io/b/5c01d76190a73066ac184ab8/9');
+ourRequest.open('GET', 'https://api.jsonbin.io/b/5c01d76190a73066ac184ab8/10');
 ourRequest.onload = function() {
   if (ourRequest.status >= 200 && ourRequest.status < 400) {
     // This is where we'll do something with the retrieved data
@@ -12,10 +12,6 @@ ourRequest.onload = function() {
     createHTML(data, "hostTemplate", "host-container");
     createHTML(data, "communityTemplate", "community-container");
     createHTML(data, "mainTemplate", "main-container");
-
-
-
-
   } else {
     console.log("We connected to the server, but it returned an error.");
   }

@@ -2,7 +2,7 @@
 
 // Get data from a JSON file
 var ourRequest = new XMLHttpRequest();
-ourRequest.open('GET', 'https://api.jsonbin.io/b/5c01d76190a73066ac184ab8/9');
+ourRequest.open('GET', 'https://api.jsonbin.io/b/5c01d76190a73066ac184ab8/10');
 ourRequest.onload = function() {
   if (ourRequest.status >= 200 && ourRequest.status < 400) {
     // This is where we'll do something with the retrieved data
@@ -19,10 +19,10 @@ ourRequest.onload = function() {
     ScrollReveal().reveal('.box', { delay: 400 });
     ScrollReveal().reveal('.box', { duration: 1500 });
 
-    ScrollReveal().reveal('.podcast', { delay: 800 });
-    ScrollReveal().reveal('.podcast', { duration: 1000 });
+    // ScrollReveal().reveal('.podcast', { delay: 600 });
+    ScrollReveal().reveal('.podcast', { duration: 800 });
     ScrollReveal().reveal('.podcast', { distance: '2rem' });
-    ScrollReveal().reveal('.podcast', { interval: 200 });
+    ScrollReveal().reveal('.podcast', { interval: 150 });
     ScrollReveal().reveal('.podcast', { easing: 'cubic-bezier(0.5, 0, .56, .95)' });
     // ScrollReveal().reveal('.podcast', { easing: 'ease-out' });
     // ScrollReveal().reveal('h1', { reset: false, });
