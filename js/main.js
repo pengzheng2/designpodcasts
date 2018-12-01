@@ -19,15 +19,13 @@ ourRequest.onload = function() {
     ScrollReveal().reveal('.box', { delay: 400 });
     ScrollReveal().reveal('.box', { duration: 1500 });
 
-    // ScrollReveal().reveal('.podcast', { delay: 600 });
+    ScrollReveal().reveal('.podcast', { delay: 50 });
     ScrollReveal().reveal('.podcast', { duration: 800 });
     ScrollReveal().reveal('.podcast', { distance: '2rem' });
     ScrollReveal().reveal('.podcast', { interval: 150 });
     ScrollReveal().reveal('.podcast', { easing: 'cubic-bezier(0.5, 0, .56, .95)' });
-    // ScrollReveal().reveal('.podcast', { easing: 'ease-out' });
-    // ScrollReveal().reveal('h1', { reset: false, });
-    // ScrollReveal().reveal('.subtitle', { reset: false, });
-    // ScrollReveal().reveal('.podcast', { reset: false, });
+
+    ScrollReveal().reveal('footer', { delay: 0 });
 
   } else {
     console.log("We connected to the server, but it returned an error.");
