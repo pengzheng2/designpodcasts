@@ -9,17 +9,25 @@ ourRequest.onload = function() {
     var data = JSON.parse(ourRequest.responseText);
     createHTML(data, "podcastsTemplate", "podcasts-container");
     // Scroll reveal
-    ScrollReveal().reveal('h1', { duration: 3000 });
-    ScrollReveal().reveal('.subtitle', { delay: 500 });
-    ScrollReveal().reveal('.subtitle', { duration: 3000 });
-    ScrollReveal().reveal('.podcast', { delay: 0 });
+    ScrollReveal().reveal('h1', { duration: 1500 });
+    // ScrollReveal().reveal('h1', { distance: '0.3rem' });
+
+    ScrollReveal().reveal('.subtitle', { delay: 200 });
+    ScrollReveal().reveal('.subtitle', { duration: 1500 });
+    ScrollReveal().reveal('.subtitle', { distance: '0.3rem' });
+
+    ScrollReveal().reveal('.box', { delay: 400 });
+    ScrollReveal().reveal('.box', { duration: 1500 });
+
+    ScrollReveal().reveal('.podcast', { delay: 800 });
     ScrollReveal().reveal('.podcast', { duration: 1000 });
     ScrollReveal().reveal('.podcast', { distance: '2rem' });
     ScrollReveal().reveal('.podcast', { interval: 200 });
     ScrollReveal().reveal('.podcast', { easing: 'cubic-bezier(0.5, 0, .56, .95)' });
-    ScrollReveal().reveal('h1', { reset: false, });
-    ScrollReveal().reveal('.subtitle', { reset: false, });
-    ScrollReveal().reveal('.podcast', { reset: false, });
+    // ScrollReveal().reveal('.podcast', { easing: 'ease-out' });
+    // ScrollReveal().reveal('h1', { reset: false, });
+    // ScrollReveal().reveal('.subtitle', { reset: false, });
+    // ScrollReveal().reveal('.podcast', { reset: false, });
 
   } else {
     console.log("We connected to the server, but it returned an error.");
@@ -58,11 +66,11 @@ $(document).ready(function() {
     // Scroll Reveal
     ScrollReveal().reveal('.podcast', { delay: 0 });
     ScrollReveal().reveal('.podcast', { duration: 1000 });
-    ScrollReveal().reveal('.podcast', { distance: '2rem' });
-    ScrollReveal().reveal('.podcast', { interval: 200 });
+    // ScrollReveal().reveal('.podcast', { distance: '2rem' });
+    ScrollReveal().reveal('.podcast', { interval: 100 });
     ScrollReveal().reveal('.podcast', { easing: 'cubic-bezier(0.5, 0, .56, .95)' });
-    ScrollReveal().reveal('.subtitle', { reset: false, });
-    ScrollReveal().reveal('.podcast', { reset: false, });
+    // ScrollReveal().reveal('.subtitle', { reset: false, });
+    // ScrollReveal().reveal('.podcast', { reset: false, });
   });
     // Design toggle
     $('#design').click(function() {
@@ -80,10 +88,10 @@ $(document).ready(function() {
     // Scroll Reveal
     ScrollReveal().reveal('.podcast', { delay: 0 });
     ScrollReveal().reveal('.podcast', { duration: 1000 });
-    ScrollReveal().reveal('.podcast', { distance: '2rem' });
-    ScrollReveal().reveal('.podcast', { interval: 200 });
+    // ScrollReveal().reveal('.podcast', { distance: '2rem' });
+    ScrollReveal().reveal('.podcast', { interval: 100 });
     ScrollReveal().reveal('.podcast', { easing: 'cubic-bezier(0.5, 0, .56, .95)' });
-    ScrollReveal().reveal('.subtitle', { reset: false, });
-    ScrollReveal().reveal('.podcast', { reset: false, });
+    // ScrollReveal().reveal('.subtitle', { reset: false, });
+    // ScrollReveal().reveal('.podcast', { reset: false, });
   });
 });
