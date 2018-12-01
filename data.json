@@ -1075,8 +1075,496 @@
           "audioURL": "https://audio.simplecast.com/af420875.mp3"
         }
       ]
-    }
+    },
 
+    {
+      "ideofutures": true,
+      "imgURL": "../assets/podcasts/ideofutures/ideofutures.jpg",
+      "officialWebsite": "https://medium.com/the-ideo-futures-podcast",
+      "link": "subs/ideofutures.html",
+      "tag": "design",
+      "design": true,
+      "name": "IDEO Futures",
+      "intro-short": "The IDEO Futures podcast: where entrepreneurship meets design.",
+      "intro-long": "We love the art and science of bringing cool stuff to life. We are designers dedicated to the notion of building to think. Our motto is always 'Don't get ready, get started!'; In that spirit, we focus on getting better with each episode we make. For the best listening experience, we recommend starting with our latest episode.",
+
+      "app": [
+        {
+          "appName": "Apple Podcasts",
+          "appImgURL": "../assets/apps/apple-podcasts.jpg",
+          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id938339249"
+        },
+        {
+          "appName": "Google Podcasts",
+          "appImgURL": "../assets/apps/google-podcast.png",
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MTA0NTgzNTQyL3NvdW5kcy5yc3M="
+        },
+        {
+          "appName": "Castro",
+          "appImgURL": "../assets/apps/castro.jpg",
+          "appURL": "https://castro.fm/itunes/938339249"
+        },
+        {
+          "appName": "Overcast",
+          "appImgURL": "../assets/apps/overcast.jpg",
+          "appURL": "https://overcast.fm/itunes938339249"
+        },
+        {
+          "appName": "PocketCasts",
+          "appImgURL": "../assets/apps/pocketcasts.jpg",
+          "appURL": "https://pca.st/itunes/938339249"
+        },
+        {
+          "appName": "Castbox",
+          "appImgURL": "../assets/apps/castbox.jpg",
+          "appURL": "https://castbox.fm/vic/938339249"
+        },
+        {
+          "appName": "Breaker",
+          "appImgURL": "../assets/apps/breaker.jpg",
+          "appURL": "https://www.breaker.audio/shows?feed_url=http%3A%2F%2Ffeeds.soundcloud.com%2Fusers%2Fsoundcloud%3Ausers%3A104583542%2Fsounds.rss"
+        },
+        {
+          "appName": "RSS",
+          "appImgURL": "../assets/apps/rss.png",
+          "appURL": "http://feeds.soundcloud.com/users/soundcloud:users:104583542/sounds.rss"
+        }
+      ],
+
+      "host": [
+        {
+          "hostPhotoURL": "../assets/podcasts/ideofutures/piperloyd.jpeg",
+          "hostName": "Piper Loyd",
+          "hostTwitterName": "ohheypipes"
+        },
+        {
+          "hostPhotoURL": "../assets/podcasts/ideofutures/diegorodriguez.jpeg",
+          "hostName": "Diego Rodriguez",
+          "hostTwitterName": "metacool"
+        },
+        {
+          "hostPhotoURL": "../assets/podcasts/ideofutures/joegerber.jpg",
+          "hostName": "Joe Gerber",
+          "hostTwitterName": "Joe__Gerber"
+        }
+      ],
+
+      "community": false,
+      "communityImgURL": "../assets/podcasts/designdetails/spectrum.jpeg",
+      "communityName": "Spectrum",
+      "communityURL": "https://spectrum.chat/specfm/does-not-compute",
+
+      "facebook": true,
+      "facebookURL": "https://www.facebook.com/IDEOprofile/",
+
+      "twitter": true,
+      "twitterURL": "https://twitter.com/ideofutures",
+
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/938339249",
+      
+      "featuredEpisodes": [
+        {
+          "date": "august 18, 2017",
+          "episodeName": "Episode 49: Steve Vassallo + The Way to Design",
+          "description": "Steve Vassallo is a General Partner at Foundation Capital and works at the intersection of business, technology, and design—all things close to our hearts. Steve joins Diego on episode 49 to talk about his new book, The Way to Design. The book is available to download for free at www.thewaytodesign.com and will be available in print this fall on Amazon.",
+          "audioURL": "http://feeds.soundcloud.com/stream/338450606-ideo-futures-episode-49.mp3"
+        },
+        {
+          "date": "may 25, 2017",
+          "episodeName": "Episode 46: #primalnumbers with JR Hildebrand, Reilly Brennan + Clay Dean",
+          "description": "As we approach the 101st running of the Indianapolis 500 this weekend, three of our favorite (and renowned) automotive design geeks join Diego to discuss the lost art of hand painted racing numbers. Graphic designers, car enthusiasts, and appreciators of of craft will likely agree: these #PrimalNumbers are worth saving.",
+          "audioURL": "http://feeds.soundcloud.com/stream/324492585-ideo-futures-episode-46.mp3"
+        }
+      ]
+    },
+
+    {
+      "insiderintercom": true,
+      "imgURL": "../assets/podcasts/insiderintercom/insiderintercom.jpg",
+      "officialWebsite": "https://www.intercom.com/blog/podcasts/",
+      "link": "subs/insiderintercom.html",
+      "tag": "design",
+      "design": true,
+      "name": "Inside Intercom Podcast",
+      "intro-short": "The team from Intercom interview makers and do-ers from the world.",
+      "intro-long": "On the Inside Intercom podcast you will hear the team from Intercom interview makers and do-ers from the worlds of product management, design, startups and marketing.",
+
+      "app": [
+        {
+          "appName": "Apple Podcasts",
+          "appImgURL": "../assets/apps/apple-podcasts.jpg",
+          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id996103731"
+        },
+        {
+          "appName": "Google Podcasts",
+          "appImgURL": "../assets/apps/google-podcast.png",
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL2luc2lkZS1pbnRlcmNvbQ=="
+        },
+        {
+          "appName": "Castro",
+          "appImgURL": "../assets/apps/castro.jpg",
+          "appURL": "https://castro.fm/itunes/996103731"
+        },
+        {
+          "appName": "Overcast",
+          "appImgURL": "../assets/apps/overcast.jpg",
+          "appURL": "https://overcast.fm/itunes996103731"
+        },
+        {
+          "appName": "PocketCasts",
+          "appImgURL": "../assets/apps/pocketcasts.jpg",
+          "appURL": "https://pca.st/itunes/996103731"
+        },
+        {
+          "appName": "Castbox",
+          "appImgURL": "../assets/apps/castbox.jpg",
+          "appURL": "https://castbox.fm/vic/996103731"
+        },
+        {
+          "appName": "Breaker",
+          "appImgURL": "../assets/apps/breaker.jpg",
+          "appURL": "https://www.breaker.audio/shows?feed_url=https%3A%2F%2Frss.art19.com%2Finside-intercom"
+        },
+        {
+          "appName": "RSS",
+          "appImgURL": "../assets/apps/rss.png",
+          "appURL": "https://rss.art19.com/inside-intercom"
+        }
+      ],
+
+      "host": [
+        {
+          "hostPhotoURL": "../assets/podcasts/insiderintercom/briankotlyar.jpeg",
+          "hostName": "Brian Kotlyar",
+          "hostTwitterName": "bkotlyar"
+        },
+        {
+          "hostPhotoURL": "../assets/podcasts/insiderintercom/jeffreyserlin.jpg",
+          "hostName": "Jeffrey Serlin",
+          "hostTwitterName": "jmserlin"
+        }
+      ],
+
+      "community": false,
+      "communityImgURL": "../assets/podcasts/designdetails/spectrum.jpeg",
+      "communityName": "Spectrum",
+      "communityURL": "https://spectrum.chat/specfm/does-not-compute",
+
+      "facebook": true,
+      "facebookURL": "https://www.facebook.com/intercominc/",
+
+      "twitter": true,
+      "twitterURL": "https://twitter.com/intercom",
+
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/996103731",
+      
+      "featuredEpisodes": [
+        {
+          "date": "august 9, 2018",
+          "episodeName": "Lili Cheng, VP of AI and Research at Microsoft",
+          "description": "For more than 20 years, Lili Cheng has been shaping the way we chat — first with Comic Chat, a graphical IRC built into Internet Explorer in the mid ’90s and now as Microsoft’s VP of AI and Research, where she oversees the companies Bot Framework. In conversation with Intercom's Adam Risman, she explains how bots and humans complement one another, when to give your chatbot a personality, and much more.",
+          "audioURL": "https://rss.art19.com/episodes/19c36c11-ea6e-4376-8e64-78ab3d44ae23.mp3"
+        },
+        {
+          "date": "march 1, 2018",
+          "episodeName": "Joel Califa, Senior Product Designer at GitHub",
+          "description": "A product designer at a growing company has two key constituents: their users and their business. In his recent post “Subverted Design”, GitHub Senior Product Designer Joel Califa reminds us that if we gear too far to toward the latter, we can lose sight of our all-important users in the process. He joins Intercom's Adam Risman to talk about the root cause of subverted design, the shifting responsibilities of a designer, how to make a big impact with small design changes and much more. ",
+          "audioURL": "https://rss.art19.com/episodes/d498dabe-bae9-44ad-9d5a-578421550b20.mp3"
+        }
+      ]
+    },
+
+    {
+      "layout": true,
+      "imgURL": "../assets/podcasts/layout/layout.png",
+      "officialWebsite": "http://layout.fm/",
+      "link": "subs/layout.html",
+      "tag": "design",
+      "design": true,
+      "name": "Layout",
+      "intro-short": "A weekly podcast about design, technology, programming and everything else.",
+      "intro-long": "A weekly podcast about design, technology, programming and everything else.",
+
+      "app": [
+        {
+          "appName": "Apple Podcasts",
+          "appImgURL": "../assets/apps/apple-podcasts.jpg",
+          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id1050276556"
+        },
+        {
+          "appName": "Google Podcasts",
+          "appImgURL": "../assets/apps/google-podcast.png",
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cDovL2xheW91dC5mbS9yc3M="
+        },
+        {
+          "appName": "Castro",
+          "appImgURL": "../assets/apps/castro.jpg",
+          "appURL": "https://castro.fm/itunes/1050276556"
+        },
+        {
+          "appName": "Overcast",
+          "appImgURL": "../assets/apps/overcast.jpg",
+          "appURL": "https://overcast.fm/itunes1050276556"
+        },
+        {
+          "appName": "PocketCasts",
+          "appImgURL": "../assets/apps/pocketcasts.jpg",
+          "appURL": "https://pca.st/itunes/1050276556"
+        },
+        {
+          "appName": "Castbox",
+          "appImgURL": "../assets/apps/castbox.jpg",
+          "appURL": "https://castbox.fm/vic/1050276556"
+        },
+        {
+          "appName": "Breaker",
+          "appImgURL": "../assets/apps/breaker.jpg",
+          "appURL": "https://www.breaker.audio/shows?feed_url=http%3A%2F%2Flayout.fm%2Frss"
+        },
+        {
+          "appName": "RSS",
+          "appImgURL": "../assets/apps/rss.png",
+          "appURL": "http://layout.fm/rss"
+        }
+      ],
+
+      "host": [
+        {
+          "hostPhotoURL": "../assets/podcasts/layout/kevin.jpg",
+          "hostName": "Kevin Clark",
+          "hostTwitterName": "vernalkick"
+        },
+        {
+          "hostPhotoURL": "../assets/podcasts/layout/rafael.jpg",
+          "hostName": "Rafael Conde",
+          "hostTwitterName": "rafahari"
+        }
+      ],
+
+      "community": true,
+      "communityImgURL": "../assets/podcasts/designdetails/spectrum.jpeg",
+      "communityName": "Spectrum",
+      "communityURL": "https://spectrum.chat/specfm/layout",
+
+      "facebook": false,
+      "facebookURL": "https://www.facebook.com/intercominc/",
+
+      "twitter": true,
+      "twitterURL": "https://twitter.com/layoutfm",
+
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/1050276556",
+      
+      "featuredEpisodes": [
+        {
+          "date": "october 12, 2018",
+          "episodeName": "119: Figma Just Got Paddie 2ed",
+          "description": "This week we briefly continue our discussion about design tools, then talk about custom Apple Watch Faces, the Habitat 67 architecture and of course, our recommendation of the week.",
+          "audioURL": "http://feeds.soundcloud.com/stream/513788367-layout-226185254-119-figma-just-got-paddie-2ed.mp3"
+        },
+        {
+          "date": "january 10, 2018",
+          "episodeName": "85: The Benjamin Button of UI",
+          "description": "This week we talk about how challenging it is to keep adding new features without compromising on simplicity.",
+          "audioURL": "http://feeds.soundcloud.com/stream/382114250-layout-226185254-85-benjamin-button-of-ui.mp3"
+        },
+        {
+          "date": "june 28, 2017",
+          "episodeName": "63: AR Needs Its Blackberry Moment",
+          "description": "Designing for the future with AR, and the 10th anniversary of the iPhone.",
+          "audioURL": "http://feeds.soundcloud.com/stream/330737478-layout-226185254-ar-needs-its-blackberry-moment.mp3"
+        },
+        {
+          "date": "february 28, 2017",
+          "episodeName": "48: Spelling UX",
+          "description": "Going from Individual Contributor to Manager/Lead. Also, Oscars' screw up and the winner of our Sketch Handbook giveaway.",
+          "audioURL": "http://feeds.soundcloud.com/stream/310150529-layout-226185254-spelling-ux.mp3"
+        }
+      ]
+    },
+
+    {
+      "ntmy": true,
+      "imgURL": "../assets/podcasts/ntmy/nicetomeetyou.jpg",
+      "officialWebsite": "https://www.vanschneider.com/show",
+      "link": "subs/ntmy.html",
+      "tag": "design",
+      "design": true,
+      "name": "Nice To Meet You",
+      "intro-short": "Podcast by Tobias van Schneider",
+      "intro-long": "Nice To Meet You is a personal conversation based podcast with makers, builders & no bullshitters.",
+
+      "app": [
+        {
+          "appName": "Apple Podcasts",
+          "appImgURL": "../assets/apps/apple-podcasts.jpg",
+          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id1050960981"
+        },
+        {
+          "appName": "Google Podcasts",
+          "appImgURL": "../assets/apps/google-podcast.png",
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NTk4NDM5OS9zb3VuZHMucnNz"
+        },
+        {
+          "appName": "Castro",
+          "appImgURL": "../assets/apps/castro.jpg",
+          "appURL": "https://castro.fm/itunes/1050960981"
+        },
+        {
+          "appName": "Overcast",
+          "appImgURL": "../assets/apps/overcast.jpg",
+          "appURL": "https://overcast.fm/itunes1050960981"
+        },
+        {
+          "appName": "PocketCasts",
+          "appImgURL": "../assets/apps/pocketcasts.jpg",
+          "appURL": "https://pca.st/itunes/1050960981"
+        },
+        {
+          "appName": "Castbox",
+          "appImgURL": "../assets/apps/castbox.jpg",
+          "appURL": "https://castbox.fm/vic/1050960981"
+        },
+        {
+          "appName": "Breaker",
+          "appImgURL": "../assets/apps/breaker.jpg",
+          "appURL": "https://www.breaker.audio/shows?feed_url=http%3A%2F%2Ffeeds.soundcloud.com%2Fusers%2Fsoundcloud%3Ausers%3A5984399%2Fsounds.rss"
+        },
+        {
+          "appName": "RSS",
+          "appImgURL": "../assets/apps/rss.png",
+          "appURL": "http://feeds.soundcloud.com/users/soundcloud:users:5984399/sounds.rss"
+        }
+      ],
+
+      "host": [
+        {
+          "hostPhotoURL": "../assets/podcasts/ntmy/tobiasvanschneider.jpg",
+          "hostName": "Tobias van Schneider",
+          "hostTwitterName": "vanschneider"
+        }
+      ],
+
+      "community": false,
+      "communityImgURL": "../assets/podcasts/designdetails/spectrum.jpeg",
+      "communityName": "Spectrum",
+      "communityURL": "https://spectrum.chat/specfm/layout",
+
+      "facebook": false,
+      "facebookURL": "https://www.facebook.com/profile.php?id=1438923213",
+
+      "twitter": false,
+      "twitterURL": "https://twitter.com/layoutfm",
+
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/1050960981",
+      
+      "featuredEpisodes": [
+        {
+          "date": "march 17, 2016",
+          "episodeName": "NTMY - Episode 10 - Brian Collins",
+          "description": "Brian Collins doesn’t seek public recognition, but his work for Coca Cola, Levi’s, Spotify and more has earned him legendary creative status nonetheless. Brian and I talk about making the most of small opportunities, finding perspective as a designer and the difference between branding, advertising and product design today.",
+          "audioURL": "http://media.blubrry.com/ntmy/http://feeds.soundcloud.com/stream/252492053-tobiasvanschneider-ntmy-episode-10-brian-collins.mp3"
+        },
+        {
+          "date": "january 28, 2016",
+          "episodeName": "NTMY - Episode 8 - Cesar Kuriyama",
+          "description": "Director and animator Cesar Kuriyama knows how to just fucking do it. He decided to take a year off work and made it happen. He loved Ted Talks and now he gives them. He wanted to help people live better and now his 1 Second Everyday app’s at 1 million downloads. Cesar and I talk about his creative adventure, the 1SE app’s history and where it’s going next.",
+          "audioURL": "http://media.blubrry.com/ntmy/http://feeds.soundcloud.com/stream/244314499-tobiasvanschneider-ntmy-episode-8-cesar-kuriyama.mp3"
+        }
+      ]
+    },
+
+    {
+      "producthunt": true,
+      "imgURL": "../assets/podcasts/producthunt/producthunt.jpg",
+      "officialWebsite": "https://www.producthunt.com/radio",
+      "link": "subs/producthunt.html",
+      "tag": "design",
+      "design": true,
+      "name": "Product Hunt Radio",
+      "intro-short": "A weekly podcast with the people creating and shaping the future of tech and culture.",
+      "intro-long": "Product Hunt Radio is a weekly podcast with the people creating and shaping the future of tech and culture. Tune in every week with Ryan Hoover as he’s joined by founders, investors, journalists, and makers to discuss the latest in tech.",
+
+      "app": [
+        {
+          "appName": "Apple Podcasts",
+          "appImgURL": "../assets/apps/apple-podcasts.jpg",
+          "appURL": "https://geo.itunes.apple.com/ca/podcast/feed/id862714883"
+        },
+        {
+          "appName": "Google Podcasts",
+          "appImgURL": "../assets/apps/google-podcast.png",
+          "appURL": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvNjI2MS9yc3M="
+        },
+        {
+          "appName": "Castro",
+          "appImgURL": "../assets/apps/castro.jpg",
+          "appURL": "https://castro.fm/itunes/862714883"
+        },
+        {
+          "appName": "Overcast",
+          "appImgURL": "../assets/apps/overcast.jpg",
+          "appURL": "https://overcast.fm/itunes862714883"
+        },
+        {
+          "appName": "PocketCasts",
+          "appImgURL": "../assets/apps/pocketcasts.jpg",
+          "appURL": "https://pca.st/itunes/862714883"
+        },
+        {
+          "appName": "Castbox",
+          "appImgURL": "../assets/apps/castbox.jpg",
+          "appURL": "https://castbox.fm/vic/862714883"
+        },
+        {
+          "appName": "Breaker",
+          "appImgURL": "../assets/apps/breaker.jpg",
+          "appURL": "https://www.breaker.audio/shows?feed_url=https%3A%2F%2Frss.simplecast.com%2Fpodcasts%2F6261%2Frss"
+        },
+        {
+          "appName": "RSS",
+          "appImgURL": "../assets/apps/rss.png",
+          "appURL": "https://rss.simplecast.com/podcasts/6261/rss"
+        }
+      ],
+
+      "host": [
+        {
+          "hostPhotoURL": "../assets/podcasts/producthunt/ryanrhoover.jpg",
+          "hostName": "Ryan Hoover",
+          "hostTwitterName": "rrhoover"
+        }
+      ],
+
+      "community": false,
+      "communityImgURL": "../assets/podcasts/designdetails/spectrum.jpeg",
+      "communityName": "Spectrum",
+      "communityURL": "https://spectrum.chat/specfm/layout",
+
+      "facebook": true,
+      "facebookURL": "https://www.facebook.com/producthunt/",
+
+      "twitter": true,
+      "twitterURL": "https://twitter.com/ProductHunt",
+
+      "podlinkURL": "https://podlink-frontend.herokuapp.com/862714883",
+      
+      "featuredEpisodes": [
+        {
+          "date": "july 21, 2016",
+          "episodeName": "Episode 90: Donald Rumsfeld",
+          "description": "This week’s episode is with Donald Rumsfeld. Donald is the former Secretary of Defense for the US and, at the tender age of 83, released an app - a solitaire game inspired by Winston Churchill. We talk about the app, lessons learned over his career, thoughts about succeeding in politics, in business, how he thinks about the future and much more. Edited by @jennaweissberman Lavish Praise to @Rumsfeldoffice Constructive Criticism to @eriktorenberg",
+          "audioURL": "http://feeds.soundcloud.com/stream/274732008-product-hunt-episode-90-donald-rumsfeld.mp3"
+        },
+        {
+          "date": "june 9, 2016",
+          "episodeName": "Episode 87: Josh Elman",
+          "description": "Josh is one of the most respected product managers in the game, having built products at Facebook, Twitter, and Linkedin. Now he has made an name for himself at Greylock as a top vc We talk about his journey working at those companies, what it was like to work with some of the best founders of all time, his transition to investing, advice for people starting a company, and much more. Josh has been a friend and supporter and If you ever get a chance to work with Josh I highly recommend it. One of the best at what he does and he’s one of the good guys.",
+          "audioURL": "http://feeds.soundcloud.com/stream/268367433-product-hunt-episode-87-josh-elman.mp3"
+        }
+        
+      ]
+    }
+    
 
 
 

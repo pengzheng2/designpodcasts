@@ -2,7 +2,7 @@
 
 // Get data from a JSON file
 var ourRequest = new XMLHttpRequest();
-ourRequest.open('GET', 'https://api.jsonbin.io/b/5c01d76190a73066ac184ab8');
+ourRequest.open('GET', 'https://api.jsonbin.io/b/5c01d76190a73066ac184ab8/9');
 ourRequest.onload = function() {
   if (ourRequest.status >= 200 && ourRequest.status < 400) {
     // This is where we'll do something with the retrieved data
@@ -17,6 +17,9 @@ ourRequest.onload = function() {
     ScrollReveal().reveal('.podcast', { distance: '2rem' });
     ScrollReveal().reveal('.podcast', { interval: 200 });
     ScrollReveal().reveal('.podcast', { easing: 'cubic-bezier(0.5, 0, .56, .95)' });
+    ScrollReveal().reveal('h1', { reset: false, });
+    ScrollReveal().reveal('.subtitle', { reset: false, });
+    ScrollReveal().reveal('.podcast', { reset: false, });
 
   } else {
     console.log("We connected to the server, but it returned an error.");
@@ -58,6 +61,8 @@ $(document).ready(function() {
     ScrollReveal().reveal('.podcast', { distance: '2rem' });
     ScrollReveal().reveal('.podcast', { interval: 200 });
     ScrollReveal().reveal('.podcast', { easing: 'cubic-bezier(0.5, 0, .56, .95)' });
+    ScrollReveal().reveal('.subtitle', { reset: false, });
+    ScrollReveal().reveal('.podcast', { reset: false, });
   });
     // Design toggle
     $('#design').click(function() {
@@ -78,5 +83,7 @@ $(document).ready(function() {
     ScrollReveal().reveal('.podcast', { distance: '2rem' });
     ScrollReveal().reveal('.podcast', { interval: 200 });
     ScrollReveal().reveal('.podcast', { easing: 'cubic-bezier(0.5, 0, .56, .95)' });
+    ScrollReveal().reveal('.subtitle', { reset: false, });
+    ScrollReveal().reveal('.podcast', { reset: false, });
   });
 });

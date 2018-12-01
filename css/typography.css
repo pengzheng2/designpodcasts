@@ -161,3 +161,8 @@ a:hover {
   text-decoration: none;
   color: var(--color-gray-900);
 }
+
+.logo a:hover {
+  text-decoration: none;
+  color: inherit;
+}

@@ -28,8 +28,8 @@
 	<!-- Navigation -->
 	<nav class="navbar navbar-expand-md navbar-light">
 		<div class="container">
-			<span class="logo">design podcasts</span>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+			<span class="logo"><a href="index.html">design podcasts</a></span>
+			<!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="navbarResponsive">
@@ -41,7 +41,7 @@
 						<h4 class="nav-link" href="#"><a href="#">apps</a></h4>
 					</li>
 				</ul>
-			</div>
+			</div> -->
 		</div>
 	</nav>
 	<div class="container">
@@ -89,7 +89,7 @@
 	<script id="podcastsTemplate" type="text/x-handlebars-template">
 		{{#each podcasts}}
 			<div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 podcast load-hidden">
-				<a href="{{link}}"><img class="img-fluid" src="assets/{{imgURL}}" alt=""></a>
+				<a href="{{link}}" target="_blank"><img class="img-fluid" src="assets/{{imgURL}}" alt=""></a>
 				<h5>{{tag}}</h5>
 				<h2>{{name}}</h2>
 				<p>{{intro-short}}</p>
@@ -101,7 +101,7 @@
 		{{#each podcasts}}
 			{{#if design}}
 				<div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 podcast load-hidden">
-					<a href="{{link}}"><img class="img-fluid" src="assets/{{imgURL}}" alt=""></a>
+					<a href="{{link}}" target="_blank"><img class="img-fluid" src="assets/{{imgURL}}" alt=""></a>
 					<h5>{{tag}}</h5>
 					<h2>{{name}}</h2>
 					<p>{{intro-short}}</p>
@@ -114,7 +114,7 @@
 		{{#each podcasts}}
 			{{#if develop}}
 				<div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 podcast load-hidden">
-					<a href="{{link}}"><img class="img-fluid" src="assets/{{imgURL}}" alt=""></a>
+					<a href="{{link}}" target="_blank"><img class="img-fluid" src="assets/{{imgURL}}" alt=""></a>
 					<h5>{{tag}}</h5>
 					<h2>{{name}}</h2>
 					<p>{{intro-short}}</p>
