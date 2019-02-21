@@ -70,6 +70,9 @@ h2 {
   text-transform: capitalize;
   color: var(--color-gray-900);
   margin-bottom: 1rem;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
 /* Heading 3 */
