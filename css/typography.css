@@ -59,6 +59,7 @@ h1 {
   text-transform: capitalize;
   color: var(--color-gray-900);
   margin-bottom: 1rem;
+  hyphens: auto;
 }
 
 /* Heading 2 */
@@ -70,6 +71,7 @@ h2 {
   text-transform: capitalize;
   color: var(--color-gray-900);
   margin-bottom: 1rem;
+  /*hyphens: auto;*/
 }
 
 /* Heading 3 */
